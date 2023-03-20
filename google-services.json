@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626545070201",
+    "firebase_url": "https://specsmakers-c7b73.firebaseio.com",
+    "project_id": "specsmakers-c7b73",
+    "storage_bucket": "specsmakers-c7b73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626545070201:android:0c596f6794ed4ccc4504a8",
+        "android_client_info": {
+          "package_name": "com.mobiquest.specsmakers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626545070201-2jtgc97ksm1rett3p9emhh2gekt4jc8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFAnY_gjuP5kE5NQc2M8JWdShIDwEFZiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626545070201-2jtgc97ksm1rett3p9emhh2gekt4jc8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
